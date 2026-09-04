@@ -32,10 +32,10 @@ Tools: Power BI | Power Query | DAX | Data Visualization
 
 🎓 Education
 
-Master's Degree in Management Information Systems (MIS)**
+Master's Degree in Management Information Systems (MIS)
 University of Aleppo — Currently in the thesis stage
 
-Bachelor's Degree in Economics — Management Information Systems (MIS)**
+Bachelor's Degree in Economics — Management Information Systems (MIS)
 University of Aleppo
 
 📫 Connect With Me
